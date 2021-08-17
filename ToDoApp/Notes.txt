@@ -1,0 +1,6 @@
+
+https://cloud.mongodb.com/v2/5e202a3379358ea97e4555c5#clusters/detail/Cluster0
+
+https://github.com/PrettyPrinted/youtube_video_code/blob/master/2020/09/01/Beginner%20Flask%20Project:%20Create%20a%20Todo%20App%20With%20Flask%20and%20MongoDB/flaskmongo/static/flatly.min.css
+
+https://www.youtube.com/watch?v=xjHEcmjlD-Y&t=134s
